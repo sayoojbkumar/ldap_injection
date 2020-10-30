@@ -4,12 +4,12 @@
 
 This is a example how bad implementation of ldap cause certain data leak
 
-used ldap server : 
+Used ldap server : 
 ldap://ldap.forumsys.com:389
 
 ## AIM
 
-find out anyone of user mail,login with the mail capture the flag
+Find out anyone of the user mail,login with the mail and finally capture the flag
 
 ## Launch Challenge
 
